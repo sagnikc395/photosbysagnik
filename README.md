@@ -2,6 +2,6 @@
 
 some photos and lifestyle
 
-## LICENSE regrading images:
+## LICENSE regarding images:
 
 - all images provided are open-source and can be used with attribution.
